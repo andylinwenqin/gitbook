@@ -1,0 +1,24 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "自动化构建电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "giit",
+    "url": "git+https://github.com/andylinwenqin/gitbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andylinwenqin/gitbook/issues"
+  },
+  "homepage": "https://github.com/andylinwenqin/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
